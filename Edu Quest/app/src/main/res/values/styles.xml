@@ -1,0 +1,10 @@
+<resources>
+    <!-- Other styles -->
+
+    <style name="ButtonTextStyle" parent="TextAppearance.AppCompat">
+        <item name="android:textSize">25sp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textStyle">bold</item>
+         <!-- Adjust shadow offset in Y direction -->
+    </style>
+</resources>
